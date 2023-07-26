@@ -1,6 +1,6 @@
 # pythonClass
 
-Ignore "testes_em_aula.ipynb", only tests on class.
+Ignore "testes_em_aula.ipynb".
 
 Roteiro:
 
