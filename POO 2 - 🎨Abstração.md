@@ -9,9 +9,6 @@ No reino da abstração, nada é o que parece. Imagine a abstração como um que
 ### Parábola do Quebra-Cabeça Mágico
 
 Em um mundo misterioso, havia um antigo quebra-cabeça que ninguém conseguia resolver. Este quebra-cabeça era composto por peças intricadas que, quando montadas, revelavam um segredo poderoso.
-
-![Quebra-Cabeça Mágico](https://exemplo.com/imagens/quebracabeca.png)
-
 Cada peça do quebra-cabeça representava um fragmento de conhecimento, e somente aqueles que entendiam a relação entre as peças poderiam decifrar o enigma.
 
 ### Código Exemplo - Abstração com Classes
@@ -43,9 +40,6 @@ Agora, vamos desvendar o mistério da abstração. Ao combinar peças cuidadosam
 ### Parábola do Artista Abstrato
 
 Imagine um artista que pinta obras de arte abstratas. Ele usa pinceladas estratégicas para transmitir emoções e ideias, sem se preocupar com a representação precisa da realidade.
-
-![Artista Abstrato](https://exemplo.com/imagens/artista.png)
-
 Assim como o artista abstrato, a abstração em programação nos permite criar modelos simplificados que capturam a essência do problema.
 
 ### Código Exemplo - Usando Abstração
@@ -75,7 +69,5 @@ class CarrinhoCompras:
 E assim, nossa jornada pela abstração em Python chega ao fim. Agora você possui o conhecimento para criar estruturas complexas que escondem detalhes intricados, revelando apenas o necessário.
 
 Lembre-se, a abstração é como um véu mágico que nos permite focar no que importa. Use essa ferramenta poderosa para criar soluções elegantes e eficientes em cada desafio que encontrar!
-
-![Fim da Jornada](https://exemplo.com/imagens/final.png)
 
 Espero que tenha apreciado esta emocionante jornada! Continue explorando e praticando, e logo você estará desvendando os mistérios da abstração com maestria! 🚀🔍
