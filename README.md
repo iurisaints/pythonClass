@@ -1,51 +1,44 @@
-# pythonClass
+# Repositório de Educação em Python
+por Prof. Esp. Iuri Santos
 
-Ignore "testes_em_aula.ipynb".
+Bem-vindo ao repositório de educação em Python! Este repositório é um recurso valioso para estudantes que desejam aprender programação em Python. Aqui você encontrará uma série de capítulos que abrangem desde conceitos básicos até tópicos mais avançados. Explore os capítulos abaixo para iniciar sua jornada de aprendizado:
 
-Roteiro:
+## Capítulos
 
-    Introdução à programação
+### 1. Operadores Matemáticos.ipynb
+   - 🧮 Explore os operadores matemáticos básicos em Python.
 
-    O que é programação
-    Por que aprender programação
-    Histórico da programação
+### 2. Estrutura Condicional.ipynb
+   - 🤔 Introdução à estrutura condicional com instruções `if` e `else`.
 
-    Conceitos básicos
+### 3. Manipulação de Textos.ipynb
+   - 📜 Aprenda sobre a manipulação de textos em Python.
 
-    Algoritmos
-    Variáveis
-    Operadores
-    Estruturas de decisão
+### 4. Listas.ipynb
+   - 📑 Descubra como trabalhar com listas, que são semelhantes a arrays em outras linguagens.
 
-    Estruturas de repetição
+### 5. Laço For.ipynb
+   - 🎀 Explore o uso do laço `for` em Python.
 
-    Laços de repetição
-    For, While
-    Funções e métodos
+### 6. While Loop.ipynb
+   - 🎡 Aprofunde-se no uso do laço `while` e seus aplicativos.
 
-    Lógica de programação
+### 7. Introdução ao POO.ipynb
+   - 👨‍🏫 Inicie sua jornada na programação orientada a objetos (POO) e aprenda sobre objetos e classes.
 
-    Como pensar como um programador
-    Resolução de problemas
+### 8. Classes e Métodos.md
+   - 🥅 Continue sua jornada na POO com uma introdução às classes e métodos.
 
-    Linguagem de programação Python
+### 9. Abstração.md
+   - 🎨 Explore o conceito de abstração na programação orientada a objetos.
 
-    Introdução à linguagem
-    Variáveis e tipos de dados
-    Operadores e estruturas de decisão
+### 10. Conceitos Importantes.md
+   - 🌟 Aprofunde-se em conceitos importantes relacionados à POO.
 
-    Estruturas de repetição em Python
+### 11. Encapsulamento.md
+   - 💊 Descubra como o encapsulamento é usado para proteger os dados em POO.
 
-    Laços de repetição
-    For, While
-    Funções e métodos
+### 12. Comunicação entre Classes.md
+   - ☎️ Aprenda como as classes podem se comunicar umas com as outras na programação orientada a objetos.
 
-    Desenvolvimento de projetos
-
-    Criação de pequenos projetos em grupo
-    Desenvolvimento de aplicativos simples
-
-    Conclusão
-
-    Revisão dos conceitos aprendidos
-    Discussão sobre futuro da programação e carreira em tecnologia.
+Comece pelo capítulo que mais lhe interessa e progrida à medida que se torna mais confortável com os conceitos. Sinta-se à vontade para explorar o código e as explicações em cada capítulo para aprofundar seu entendimento em Python. Boa jornada de aprendizado!
